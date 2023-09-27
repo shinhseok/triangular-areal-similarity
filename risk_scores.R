@@ -1,6 +1,3 @@
-#version
-setwd("C:/Users/shinh/OneDrive/Desktop/nhanes")
-
 library(tidyverse)
 
 # Load Data / Select and Rename Columns 
